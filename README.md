@@ -1,3 +1,3 @@
 # TestRepository
-This is instruction how to use this application
+This is my instruction how to use this application
 new change
